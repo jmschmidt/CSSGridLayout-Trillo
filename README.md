@@ -1,6 +1,6 @@
-# CSS Grid Layout Exercise - Trillo Single Page
+# Flexbox Layout Exercise - Trillo Single Page
 
-This repo contains files for single page project as an exercise in CSS Grid Layout. This was based on the Advanced CSS and Sass Udemy course by Jonas Schmedtmann.
+This repo contains files for single page project as an exercise in using Flexbox. This was based on the Advanced CSS and Sass Udemy course by Jonas Schmedtmann.
 
 ### Prerequisites
 1. Node v6.6 or above

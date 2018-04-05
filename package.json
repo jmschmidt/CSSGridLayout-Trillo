@@ -1,7 +1,7 @@
 {
   "name": "Trillo",
   "version": "1.0.0",
-  "description": "Trillo app for static page built using CSS Grid",
+  "description": "Trillo app for static page built using Flexbox",
   "main": "index.js",
   "scripts": {
     "watch:sass": "node-sass sass/main.scss css/style.css -w",
